@@ -7,3 +7,8 @@
   "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/token-list/main/assets/mainnet/YOUR_TOKEN_ADDRESS/logo.png",
   "tags": ["utility-token"]
 }
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://sf-designstudio.com",
+    "facebook": "https://www.facebook.com/groups/3070518349762295"
+  }
